@@ -78,7 +78,7 @@
    <br> 
    <br> 
    <br> 
-   <button type="button" onclick=" myfun();"> CLICK ME!&#128525</button> 
+   <button type="button" onclick=" myfun();"> CLICK ME! &#128525 </button> 
   </form> 
  </body>
 </html>
